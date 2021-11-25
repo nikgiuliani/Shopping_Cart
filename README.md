@@ -1,2 +1,0 @@
-# Shopping_Cart
-This is a project I did for school! The project assignment focuses on object-oriented programming, creating objects for specific user input items and an object for the shopping cart itself. Able to add new items, remove items, update the quantities of items, print the price, quantity, and descriptions of each item, and an option to reprint the user commands in case the user inputs something contrary to the above mentioned options. Written in C++.
